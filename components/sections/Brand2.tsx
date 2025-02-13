@@ -9,9 +9,9 @@ export default function Brand2({ noBg }: any) {
 			<div className={`py-96 ${noBg ? '' : ' background-100'}`}>
 				<div className="container">
 					<div className="box-search-category">
-						<h3 className="heading-3 mb-0 neutral-1000 wow fadeInUp">Premium Brands</h3>
+						<h3 className="heading-3 mb-0 neutral-1000 wow fadeInUp">Marcas Premium</h3>
 						<div className="d-flex align-items-center justify-content-between">
-							<p className="text-lg-medium neutral-500 wow fadeInUp">Unveil the Finest Selection of High-End Vehicles</p>
+							<p className="text-lg-medium neutral-500 wow fadeInUp">Descubra la mejor selección de vehículos</p>
 							<Link href="#" className="text-sm-bold neutral-1000 wow fadeInUp">
 								Show All Brands
 								<svg className="ms-1" xmlns="http://www.w3.org/2000/svg" width={15} height={10} viewBox="0 0 15 10" fill="none">

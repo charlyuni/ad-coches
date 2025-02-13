@@ -5,7 +5,7 @@ export default function App() {
 	return (
 		<>
 
-			<section className="box-app position-relative">
+			{/* <section className="box-app position-relative">
 				<div className="container position-relative z-1">
 					<div className="row align-items-center py-5">
 						<div className="col-lg-5">
@@ -23,7 +23,7 @@ export default function App() {
 						</div>
 					</div>
 				</div>
-			</section>
+			</section> */}
 		</>
 	)
 }

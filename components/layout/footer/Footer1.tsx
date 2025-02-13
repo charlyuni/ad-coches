@@ -5,7 +5,7 @@ export default function Footer1() {
 		<>
 			<footer className="footer">
 				<div className="container">
-					<div className="footer-top">
+					{/* <div className="footer-top">
 						<div className="row align-items-center">
 							<div className="col-lg-5 col-md-6 text-center text-md-start">
 								<h5 className="color-white wow fadeInDown">Subscribe to see secret deals prices drop the moment you
@@ -20,7 +20,7 @@ export default function Footer1() {
 								</div>
 							</div>
 						</div>
-					</div>
+					</div> */}
 					<div className="row">
 						<div className="col-md-3 col-sm-12 footer-1">
 							<div className="mt-20 mb-20">
@@ -29,13 +29,12 @@ export default function Footer1() {
 									<img className="dark-mode" alt="AD-Coches" src="/assets/imgs/template/logo-w.svg" />
 								</Link>
 								<div className="box-info-contact mt-0">
-									<p className="text-md neutral-400 icon-address">2356 Oakwood Drive, Suite 18, San Francisco,
-										California 94111, US</p>
-									<p className="text-md neutral-400 icon-worktime">Hours: 8:00 - 17:00, Mon - Sat</p>
-									<p className="text-md neutral-400 icon-email">support@AD-Coches.com</p>
+									<p className="text-md neutral-400 icon-address">04720 - Aguadulce, Almería, España</p>
+									<p className="text-md neutral-400 icon-worktime">Horario: 8:00 - 17:00, Lunes - Sábado</p>
+									<p className="text-md neutral-400 icon-email">ventas@adcoches.es</p>
 								</div>
 								<div className="box-need-help">
-									<p className="need-help text-md-medium mb-5">Need help? Call us</p>
+									<p className="need-help text-md-medium mb-5">¿Necesitas ayuda? Llámanos</p>
 									<br /><Link className="heading-6 phone-support" href="/tel:+34 661 33 84 34">+34 661 33 84 34</Link>
 								</div>
 							</div>

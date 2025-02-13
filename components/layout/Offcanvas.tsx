@@ -115,8 +115,8 @@ export default function Offcanvas({ isOffcanvas, handleOffcanvas }: any) {
 							<div className="contact-info">
 								<p className="address-2 text-md-medium neutral-1000">4517 Washington Ave. <br />Manchester, Kentucky
 									39495</p>
-								<p className="hour-work-2 text-md-medium neutral-1000">Hours: 8:00 - 17:00, Mon - Sat</p>
-								<p className="email-2 text-md-medium neutral-1000">support@AD-Coches.com</p>
+								<p className="hour-work-2 text-md-medium neutral-1000">Horario: 8:00 - 17:00, Lunes - Sábado</p>
+								<p className="email-2 text-md-medium neutral-1000">ventas@adcoches.es</p>
 							</div>
 						</div>
 					</div>
