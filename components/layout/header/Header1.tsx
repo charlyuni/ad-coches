@@ -79,15 +79,15 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, handle
 								<nav className="nav-main-menu">
 									<ul className="main-menu">
 										<li className="has-children arrow-white">
-											<Link className="color-white" href="#">Home</Link>
-											<ul className="sub-menu">
+											<Link className="color-white" href="/">Inicio</Link>
+											{/* <ul className="sub-menu">
 												<li><Link href="/">Home page v1</Link></li>
 												<li><Link href="/index-2">Home page v2</Link></li>
 												<li><Link href="/index-3">Home page v3</Link></li>
-											</ul>
+											</ul> */}
 										</li>
 										<li className="mega-li-small has-children arrow-white">
-											<Link className="color-white" href="#">Vehicles</Link>
+											<Link className="color-white" href="#">Coches</Link>
 											<div className="mega-menu">
 												<div className="mega-menu-inner mega-menu-inner-small">
 													<div className="row">
@@ -114,19 +114,19 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, handle
 											</div>
 										</li>
 										<li className="has-children arrow-white">
-											<Link className="color-white" href="#">Dealers</Link>
+											<Link className="color-white" href="#">Servicios</Link>
 											<ul className="sub-menu">
-												<li><Link href="/dealer-listing">Dealers Listing</Link></li>
-												<li><Link href="/dealer-details">Dealer Details</Link></li>
+												<li><Link href="/dealer-listing">Financiación</Link></li>
+												<li><Link href="/dealer-details">Repuestos</Link></li>
 											</ul>
 										</li>
-										<li className="has-children arrow-white">
+										{/* <li className="has-children arrow-white">
 											<Link className="color-white" href="#">Shop</Link>
 											<ul className="sub-menu">
 												<li><Link href="/shop-list">Shop Grid</Link></li>
 												<li><Link href="/shop-details">Product Details</Link></li>
 											</ul>
-										</li>
+										</li> 
 										<li className="has-children arrow-white">
 											<Link className="color-white" href="#">Pages</Link>
 											<ul className="sub-menu">
@@ -159,19 +159,19 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, handle
 												</div>
 											</div>
 										</li>
-										<li><Link className="color-white" href="/contact">Contact</Link></li>
+										<li><Link className="color-white" href="/contact">Contact</Link></li> */}
 									</ul>
 								</nav>
 							</div>
 							<div className="header-right">
 								<div className="d-none d-xxl-inline-block align-middle mr-15">
-									<Link className="btn btn-signin" href="/login">
+									{/* <Link className="btn btn-signin" href="/login">
 										<svg className="mb-1" xmlns="http://www.w3.org/2000/svg" width={16} height={16} viewBox="0 0 16 16" fill="none">
 											<path d="M3 14C3 14 2 14 2 13C2 12 3 9 8 9C13 9 14 12 14 13C14 14 13 14 13 14H3ZM8 8C8.79565 8 9.55871 7.68393 10.1213 7.12132C10.6839 6.55871 11 5.79565 11 5C11 4.20435 10.6839 3.44129 10.1213 2.87868C9.55871 2.31607 8.79565 2 8 2C7.20435 2 6.44129 2.31607 5.87868 2.87868C5.31607 3.44129 5 4.20435 5 5C5 5.79565 5.31607 6.55871 5.87868 7.12132C6.44129 7.68393 7.20435 8 8 8Z" fill="white" />
 										</svg>
 										Sign in
-									</Link>
-									<Link className="btn btn-signin bg-white text-dark" href="/pricing">Add Listing</Link>
+									</Link> */}
+									<Link className="btn btn-signin bg-white text-dark" href="/contact">Contactanos</Link>
 								</div>
 								<div className="burger-icon-2 burger-icon-white" onClick={handleOffcanvas}>
 									<img src="/assets/imgs/template/icons/menu.svg" alt="AD-Coches" />

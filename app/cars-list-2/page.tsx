@@ -41,7 +41,7 @@ export default function CarsList2() {
 								<img className="w-100 h-100 img-fluid img-banner" src="/assets/imgs/page-header/banner6.png" alt="AD-Coches" />
 							</div>
 							<div className="container position-absolute z-1 top-50 start-50 pb-70 translate-middle text-center">
-								<span className="text-sm-bold bg-2 px-4 py-3 rounded-12">Find cars for sale and for rent near you</span>
+								<span className="text-sm-bold bg-2 px-4 py-3 rounded-12">Encuentra tu próximo coche</span>
 								<h2 className="text-white mt-4">Discover Your Ideal Vehicle</h2>
 								<span className="text-white text-lg-medium">Search and find your best car rental with easy way</span>
 							</div>
