@@ -10,6 +10,7 @@ const urbanist = Urbanist({
 	display: 'swap',
 })
 
+
 export const metadata: Metadata = {
 	title: "AD-Coches - Tu próximo coche en Almería",
 	description: "AD-Coches es tu concesionario de coches en Almería. Compra tu coche de segunda mano o nuevo con nosotros. ¡Visítanos!",
