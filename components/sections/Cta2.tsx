@@ -161,43 +161,69 @@ export default function Cta2() {
         </div>
 
         <div className="row align-items-center">
-          <div className="border-top py-3 mt-3" />
-          <div className="col-lg-7 mb-20">
-            <div className="row">
-              <div className="col-md-3 col-6">
-                <h3 className="count text-white">
-                  <CounterUp count={100} />
-                </h3>
-                <h3 className="text-white">%</h3>
-                <p className="text-lg-bold text-white">Clientes Satisfechos</p>
-              </div>
-              <div className="col-md-3 col-6">
-                <h3 className="count text-white">
-                  <CounterUp count={365} />
-                </h3>
-                <p className="text-lg-bold text-white">
-                  Atención Personalizada
-                </p>
-              </div>
-              <div className="col-md-3 col-6">
-                <h3 className="count text-white">
-                  <CounterUp count={24} />
-                </h3>
-                <h3 className="text-white">h</h3>
-                <p className="text-lg-bold text-white">
-                  Otorgamiento de financiación
-                </p>
-              </div>
-              <div className="col-md-3 col-6">
-                <h3 className="count text-white">
-                  <CounterUp count={72} />
-                </h3>
-                <h3 className="text-white">h</h3>
-                <p className="text-lg-bold text-white">Entrega Garantizada</p>
-              </div>
-            </div>
-          </div>
-        </div>
+						<div className="border-top py-3 mt-3" />
+						<div className="col-lg-7 mb-20 wow fadeIn">
+							<div className="row">
+								<div className="col-md-3 col-6 mb-md-0 mb-4 d-flex flex-column align-items-center align-items-md-start">
+									<div className="d-flex justify-content-center justify-content-md-start">
+										<h3 className="count text-white"><CounterUp count={100} /></h3>
+										<h3 className="text-white">%</h3>
+									</div>
+									<div className="position-relative">
+										<p className="text-lg-bold text-white">Clientes</p>
+										<p className="text-lg-bold text-white">Satisfechos</p>
+									</div>
+								</div>
+								<div className="col-md-3 col-6 mb-md-0 mb-4 d-flex flex-column align-items-center align-items-md-start">
+									<div className="d-flex justify-content-center justify-content-md-start">
+										<h3 className="count text-white"><CounterUp count={365} /></h3>
+										<h3 className="text-white"></h3>
+									</div>
+									<div className="position-relative">
+										<p className="text-lg-bold text-white">Atención</p>
+										<p className="text-lg-bold text-white">Personalizada</p>
+									</div>
+								</div>
+								<div className="col-md-3 col-6 mb-md-0 mb-4 d-flex flex-column align-items-center align-items-md-start">
+									<div className="d-flex justify-content-center justify-content-md-start">
+										<h3 className="count text-white"><CounterUp count={24} /></h3>
+										<h3 className="text-white">h</h3>
+									</div>
+									<div className="position-relative">
+										<p className="text-lg-bold text-white">Otorgamiento</p>
+										<p className="text-lg-bold text-white">de financiación</p>
+									</div>
+								</div>
+								<div className="col-md-3 col-6 mb-md-0 mb-4 d-flex flex-column align-items-center align-items-md-start">
+									<div className="d-flex justify-content-center justify-content-md-start">
+										<h3 className="count text-white"><CounterUp count={72} /></h3>
+										<h3 className="text-white">h</h3>
+									</div>
+									<div className="position-relative">
+										<p className="text-lg-bold text-white">Entrega</p>
+										<p className="text-lg-bold text-white">Garantizada</p>
+									</div>
+								</div>
+							</div>
+						</div>
+						{/* <div className="col-lg-4 offset-lg-1 wow fadeIn">
+							<div className="box-authors-partner background-body wow fadeInUp p-4">
+								<div className="authors-partner-left">
+									<img src="/assets/imgs/page/homepage5/author.png" alt="AD-Coches" /><img src="/assets/imgs/page/homepage5/author2.png" alt="AD-Coches" /><img src="/assets/imgs/page/homepage5/author3.png" alt="AD-Coches" />
+									<span className="item-author">
+										<svg width={18} height={18} viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+											<rect x="0.5" y="7.448" width={17} height="2.31818" fill="black" />
+											<rect x="7.84082" y="17.1072" width={17} height="2.31818" transform="rotate(-90 7.84082 17.1072)" fill="black" />
+										</svg>
+									</span>
+								</div>
+								<div className="authors-partner-right">
+									<p className="text-sm neutral-1000">1684 people used <strong>AD-Coches </strong>in the last
+										<strong>24 hours</strong></p>
+								</div>
+							</div>
+						</div> */}
+					</div>
       </div>
     </section>
   );

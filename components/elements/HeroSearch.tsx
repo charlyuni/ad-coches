@@ -28,7 +28,7 @@ export default function HeroSearch() {
 				<div className="item-search item-search-2">
 					<label className="text-sm-bold neutral-500">Año</label>
 					<Dropdown className="dropdown">
-						<Dropdown.Toggle as="div" className="btn btn-secondary dropdown-toggle btn-dropdown-search location-search" >2020</Dropdown.Toggle>
+						<Dropdown.Toggle as="div" className="btn btn-secondary dropdown-toggle btn-dropdown-search location-search" >Año</Dropdown.Toggle>
 						<Dropdown.Menu as="ul" className="dropdown-menu">
 							<li>
 								<Link className="dropdown-item" href="#">2021</Link>
@@ -43,7 +43,7 @@ export default function HeroSearch() {
 					</Dropdown>
 				</div>
 				<div className="item-search item-search-3">
-				<label className="text-sm-bold neutral-500">Año</label>
+				<label className="text-sm-bold neutral-500">Combustible</label>
 					<Dropdown className="dropdown">
 						<Dropdown.Toggle as="div" className="btn btn-secondary dropdown-toggle btn-dropdown-search location-search" >Combustible</Dropdown.Toggle>
 						<Dropdown.Menu as="ul" className="dropdown-menu">
@@ -60,7 +60,7 @@ export default function HeroSearch() {
 					</Dropdown>
 				</div>
 				<div className="item-search bd-none">
-				<label className="text-sm-bold neutral-500">Año</label>
+				<label className="text-sm-bold neutral-500">Kilometraje</label>
 					<Dropdown className="dropdown">
 						<Dropdown.Toggle as="div" className="btn btn-secondary dropdown-toggle btn-dropdown-search location-search" >Kilometraje</Dropdown.Toggle>
 						<Dropdown.Menu as="ul" className="dropdown-menu">
