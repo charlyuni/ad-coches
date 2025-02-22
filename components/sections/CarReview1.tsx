@@ -8,13 +8,12 @@ export default function CarReview1() {
 	return (
 		<>
 
-			<section className="section-box box-picked background-body">
+			<section className="section-box box-picked background-body margin-footer">
 				<div className="container">
 					<div className="row align-items-end">
 						<div className="col-md-9 mb-30 wow fadeInUp">
-							<h3 className="neutral-1000">Car Review</h3>
-							<p className="text-lg-medium neutral-500">Expert insights and honest evaluations to help you choose
-								the perfect car</p>
+							<h3 className="neutral-1000">Algunos de nuestros videos</h3>
+							<p className="text-lg-medium neutral-500">Mirá nuestros videos más recientes.</p>
 						</div>
 						<div className="col-md-3 mb-30 wow fadeInUp">
 							<div className="d-flex justify-content-center justify-content-md-end">

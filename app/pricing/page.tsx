@@ -472,12 +472,12 @@ export default function Pricing() {
 						</div>
 					</section>
 					{/* blog-1 */}
-					<section className="section-box box-news background-body">
+					{/* <section className="section-box box-news background-body">
 						<div className="container">
 							<div className="row align-items-end">
 								<div className="col-md-9 mb-30 wow fadeInUp">
 									<h3 className="title-svg neutral-1000 mb-15">Upcoming Cars &amp; Events</h3>
-									<p className="text-lg-medium text-bold neutral-500">Stay ahead with the latest car releases and upcoming events</p>
+									<p className="text-lg-medium text-bold neutral-500">Stay ah3ead with the latest car releases and upcoming events</p>
 								</div>
 								<div className="col-md-3 position-relative mb-30 wow fadeInUp">
 									<div className="box-button-slider box-button-slider-team justify-content-end">
@@ -641,7 +641,7 @@ export default function Pricing() {
 								</div>
 							</div>
 						</div>
-					</section>
+					</section> */}
 				</div>
 
 			</Layout>

@@ -15,15 +15,15 @@ export default function Banners() {
 								</div>
 								<div className="banner-info">
 									<div className="banner-title wow fadeInDown">
-										<h5>Loking for a rental car?</h5>
+										<h5>Estas buscando comprar un coche?</h5>
 									</div>
 									<p className="banner-text text-md-regular py-3 wow fadeInUp">
-										Discover your ideal rental car for every adventure, <br />
-										whether it's a road trip or business travel
+										Descubre tu coche ideal en nuestra <br />
+										selección de coches.
 									</p>
 									<div className="banner-button pb-70 pt-3">
 										<Link className="btn btn-primary background-brand-2 wow fadeInUp" href="/cars-list-1">
-											Get Started Now
+											Contactar con nosotros
 											<svg width={16} height={16} viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 												<path d="M8 15L15 8L8 1M15 8L1 8" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
 											</svg>
@@ -39,15 +39,15 @@ export default function Banners() {
 								</div>
 								<div className="banner-info">
 									<div className="banner-title wow fadeInDown">
-										<h5>Loking for a rental car?</h5>
+										<h5>Estas buscando vender tu coche?</h5>
 									</div>
 									<p className="banner-text text-md-regular py-3 wow fadeInUp">
-										Maximize your vehicle's potential: seamlessly <br />
-										rent or sell with confidence
+										Vende tu coche con nosotros y <br />
+										recibe una oferta competitiva.
 									</p>
 									<div className="banner-button pb-70 pt-3">
 										<Link className="btn btn-primary bg-white wow fadeInUp" href="/cars-list-1">
-											Get Started Now
+										Contactar con nosotros
 											<svg width={16} height={16} viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 												<path d="M8 15L15 8L8 1M15 8L1 8" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
 											</svg>

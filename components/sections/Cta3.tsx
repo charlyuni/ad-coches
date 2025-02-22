@@ -10,24 +10,22 @@ export default function Cta3() {
 					<div className="container">
 						<div className="row align-items-center">
 							<div className="col-lg-5 pe-lg-5">
-								<span className="btn btn-signin bg-white text-dark mb-4 wow fadeInDown">Trusted Expertise</span>
-								<h4 className="mb-4 pe-lg-5 neutral-1000 wow fadeInUp">Get a great deal for your vehicle sell to
-									us now</h4>
+								<span className="btn btn-signin bg-white text-dark mb-4 wow fadeInDown">Experiencia de confianza</span>
+								<h4 className="mb-4 pe-lg-5 neutral-1000 wow fadeInUp">Obtenga la mejor oferta para su vehículo con nuestro proceso de venta transparente y directo</h4>
 								<p className="text-lg-medium neutral-500 mb-4 wow fadeInUp">
-									Get the best value for your vehicle with our transparent <br className="d-none d-lg-block" />
-									and straightforward selling process
+									Otorgamos un servicio excepcional, precios competitivos y una amplia selección de opciones para nuestros clientes.
 								</p>
 								<div className="row">
 									<div className="col">
 										<ul className="list-ticks-green">
-											<li className="neutral-1000">Experienced Professionals You Can Trust</li>
-											<li className="neutral-1000">Clear and Transparent Pricing, No Hidden Fees</li>
-											<li className="neutral-1000">Genuine Spares Parts</li>
+											<li className="neutral-1000">Experiencia de confianza</li>
+											<li className="neutral-1000">Precio justo garantizado</li>
+											<li className="neutral-1000">Coches garantizados</li>
 										</ul>
 									</div>
 								</div>
 								<Link className="btn btn-primary mt-2 wow fadeInUp" href="#">
-									Get Started Now
+									Obtener una oferta
 									<svg width={16} height={16} viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 										<path d="M8 15L15 8L8 1M15 8L1 8" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
 									</svg>

@@ -6,7 +6,7 @@ export const swiperGroup4 = {
 	modules: [Autoplay, Pagination, Navigation],
 	spaceBetween: 30,
 	slidesPerView: 4,
-	slidesPerGroup: 2,
+	slidesPerGroup: 1,
 	loop: true,
 	navigation: {
 		nextEl: '.swiper-button-next',

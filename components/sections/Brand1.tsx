@@ -33,18 +33,18 @@ export default function Brand1() {
 										<img className="dark-mode" src="/assets/imgs/page/homepage2/mer-w.png" alt="AD-Coches" />
 									</Link>
 								</li>
-								<li className="carouselTicker__item">
+							{/* 	<li className="carouselTicker__item">
 									<Link href="/cars-list-2" className="item-brand">
 										<img className="light-mode" src="/assets/imgs/page/homepage2/bugatti.png" alt="AD-Coches" />
 										<img className="dark-mode" src="/assets/imgs/page/homepage2/bugatti-w.png" alt="AD-Coches" />
 									</Link>
-								</li>
-								<li className="carouselTicker__item">
+								</li> */}
+							{/* 	<li className="carouselTicker__item">
 									<Link href="/cars-list-2" className="item-brand">
 										<img className="light-mode" src="/assets/imgs/page/homepage2/jaguar.png" alt="AD-Coches" />
 										<img className="dark-mode" src="/assets/imgs/page/homepage2/jaguar-w.png" alt="AD-Coches" />
 									</Link>
-								</li>
+								</li> */}
 								<li className="carouselTicker__item">
 									<Link href="/cars-list-2" className="item-brand">
 										<img className="light-mode" src="/assets/imgs/page/homepage2/honda.png" alt="AD-Coches" />
@@ -57,12 +57,12 @@ export default function Brand1() {
 										<img className="dark-mode" src="/assets/imgs/page/homepage2/chevrolet-w.png" alt="AD-Coches" />
 									</Link>
 								</li>
-								<li className="carouselTicker__item">
+							{/* 	<li className="carouselTicker__item">
 									<Link href="/cars-list-2" className="item-brand">
 										<img className="light-mode" src="/assets/imgs/page/homepage2/acura.png" alt="AD-Coches" />
 										<img className="dark-mode" src="/assets/imgs/page/homepage2/acura-w.png" alt="AD-Coches" />
 									</Link>
-								</li>
+								</li> */}
 								<li className="carouselTicker__item">
 									<Link href="/cars-list-2" className="item-brand">
 										<img className="light-mode" src="/assets/imgs/page/homepage2/bmw.png" alt="AD-Coches" />
@@ -87,12 +87,12 @@ export default function Brand1() {
 										<img className="dark-mode" src="/assets/imgs/page/homepage2/mer-w.png" alt="AD-Coches" />
 									</Link>
 								</li>
-								<li className="carouselTicker__item">
+							{/* 	<li className="carouselTicker__item">
 									<Link href="/cars-list-2" className="item-brand">
 										<img className="light-mode" src="/assets/imgs/page/homepage2/bugatti.png" alt="AD-Coches" />
 										<img className="dark-mode" src="/assets/imgs/page/homepage2/bugatti-w.png" alt="AD-Coches" />
 									</Link>
-								</li>
+								</li> */}
 							</ul>
 					</Marquee>
 				</div>

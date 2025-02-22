@@ -749,12 +749,12 @@ export default function CarsDetails3() {
 												<img className="dark-mode" src="/assets/imgs/page/homepage2/mer-w.png" alt="AD-Coches" />
 											</div>
 										</li>
-										<li className="carouselTicker__item">
+									{/* 	<li className="carouselTicker__item">
 											<div className="item-brand">
 												<img className="light-mode" src="/assets/imgs/page/homepage2/bugatti.png" alt="AD-Coches" />
 												<img className="dark-mode" src="/assets/imgs/page/homepage2/bugatti-w.png" alt="AD-Coches" />
 											</div>
-										</li>
+										</li> */}
 										<li className="carouselTicker__item">
 											<div className="item-brand">
 												<img className="light-mode" src="/assets/imgs/page/homepage2/jaguar.png" alt="AD-Coches" />
@@ -803,12 +803,12 @@ export default function CarsDetails3() {
 												<img className="dark-mode" src="/assets/imgs/page/homepage2/mer-w.png" alt="AD-Coches" />
 											</div>
 										</li>
-										<li className="carouselTicker__item">
+									{/* 	<li className="carouselTicker__item">
 											<div className="item-brand">
 												<img className="light-mode" src="/assets/imgs/page/homepage2/bugatti.png" alt="AD-Coches" />
 												<img className="dark-mode" src="/assets/imgs/page/homepage2/bugatti-w.png" alt="AD-Coches" />
 											</div>
-										</li>
+										</li> */}
 									</ul>
 								</Marquee>
 							</div>

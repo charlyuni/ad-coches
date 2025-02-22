@@ -7,10 +7,10 @@ export default function WhyUs1({cls}:any) {
 			<section className={`section-box box-why-book-22 background-body ${cls}`}>
 				<div className="container">
 					<div className="text-center wow fadeInUp">
-						<p className="text-xl-medium neutral-500 wow fadeInUp">HOW IT WORKS</p>
+						<p className="text-xl-medium neutral-500 wow fadeInUp">Sobre nosotros</p>
 						<h3 className="neutral-1000 wow fadeInUp">
-							Presenting Your New Go-To Car <br className="d-none d-lg-block" />
-							Rental Experience
+							Presentamos una nueva experiencia en compra y venta de coches<br className="d-none d-lg-block" />
+						
 						</h3>
 					</div>
 					<div className="row mt-40">
@@ -26,9 +26,8 @@ export default function WhyUs1({cls}:any) {
 									</svg>
 								</div>
 								<div className="card-info">
-									<h6 className="text-xl-bold neutral-1000">Choose a Location</h6>
-									<p className="text-md-medium neutral-500">Select the ideal destination to begin your journey
-										with ease</p>
+									<h6 className="text-xl-bold neutral-1000">Encuentra tu coche</h6>
+									<p className="text-md-medium neutral-500">Selecciona el coche que deseas comprar o vender.</p>
 								</div>
 							</div>
 						</div>
@@ -45,9 +44,8 @@ export default function WhyUs1({cls}:any) {
 									</svg>
 								</div>
 								<div className="card-info">
-									<h6 className="text-xl-bold neutral-1000">Choose Your Vehicle</h6>
-									<p className="text-md-medium neutral-500">Browse our fleet and find the perfect car for your
-										needs</p>
+									<h6 className="text-xl-bold neutral-1000">Precio justo</h6>
+									<p className="text-md-medium neutral-500">Garantizamos un precio justo para su coche.</p>
 								</div>
 							</div>
 						</div>
@@ -70,8 +68,8 @@ export default function WhyUs1({cls}:any) {
 									</svg>
 								</div>
 								<div className="card-info">
-									<h6 className="text-xl-bold neutral-1000">Verification</h6>
-									<p className="text-md-medium neutral-500">Review your information and confirm your booking
+									<h6 className="text-xl-bold neutral-1000">Verificación </h6>
+									<p className="text-md-medium neutral-500">Coches verificados por expertos.
 									</p>
 								</div>
 							</div>
@@ -89,8 +87,8 @@ export default function WhyUs1({cls}:any) {
 									</svg>
 								</div>
 								<div className="card-info">
-									<h6 className="text-xl-bold neutral-1000">Begin Your Journey</h6>
-									<p className="text-md-medium neutral-500">Start your adventure with confidence and ease</p>
+									<h6 className="text-xl-bold neutral-1000">Seguridad</h6>
+									<p className="text-md-medium neutral-500">Comienza tu viaje con confianza y seguridad. </p>
 								</div>
 							</div>
 						</div>
