@@ -93,24 +93,20 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, handle
 											<div className="mega-menu">
 												<div className="mega-menu-inner mega-menu-inner-small">
 													<div className="row">
-														<div className="col-lg-6">
-															<h6 className="text-lg-bold neutral-1000">Cars List</h6>
+														<div className="col-lg-12">
+															<h6 className="text-lg-bold neutral-1000">Lista de coches</h6>
 															<ul className="sub-menu">
-																<li><Link href="/cars-list-1">Cars List v1</Link></li>
-																<li><Link href="/cars-list-2">Cars List v2</Link></li>
-																<li><Link href="/cars-list-3">Cars List v3</Link></li>
-																<li><Link href="/cars-list-4">Cars List v4</Link></li>
+																<li><Link href="/cars-list-1">Lista de coches</Link></li>
+															
 															</ul>
 														</div>
-														<div className="col-lg-6">
+														{/* <div className="col-lg-6">
 															<h6 className="text-lg-bold neutral-1000">Car Details</h6>
 															<ul className="sub-menu">
 																<li><Link href="/cars-details-1">Car Details v1</Link></li>
-																<li><Link href="/cars-details-2">Car Details v2</Link></li>
-																<li><Link href="/cars-details-3">Car Details v3</Link></li>
-																<li><Link href="/cars-details-4">Car Details v4</Link></li>
+																
 															</ul>
-														</div>
+														</div> */}
 													</div>
 												</div>
 											</div>
@@ -175,9 +171,9 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, handle
 									</Link> */}
 									<Link className="btn btn-signin bg-white text-dark" href="/contact">Contactanos</Link>
 								</div>
-								<div className="burger-icon-2 burger-icon-white" onClick={handleOffcanvas}>
+								{/* <div className="burger-icon-2 burger-icon-white" onClick={handleOffcanvas}>
 									<img src="/assets/imgs/template/icons/menu.svg" alt="AD-Coches" />
-								</div>
+								</div> */}
 								<div className="burger-icon burger-icon-white" onClick={handleMobileMenu}>
 									<span className="burger-icon-top" />
 									<span className="burger-icon-mid"> </span>

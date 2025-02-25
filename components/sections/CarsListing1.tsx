@@ -69,7 +69,7 @@ export default function CarsListing1() {
 												</div>
 											</div>
 										</div>
-										<div className="card-journey-small background-card hover-up">
+										{/* <div className="card-journey-small background-card hover-up">
 											<div className="card-image">
 												<Link href="/cars-details-1">
 													<img src="/assets/imgs/cars-listing/cars-listing-1/car-2.png" alt="AD-Coches" />
@@ -104,9 +104,9 @@ export default function CarsListing1() {
 													</div>
 												</div>
 											</div>
-										</div>
+										</div> */}
 									</SwiperSlide>
-									<SwiperSlide>
+									{/* <SwiperSlide>
 										<div className="card-journey-small background-card hover-up">
 											<div className="card-image">
 												<Link href="/cars-details-1">
@@ -253,12 +253,12 @@ export default function CarsListing1() {
 												</div>
 											</div>
 										</div>
-									</SwiperSlide>
+									</SwiperSlide> */}
 								</div>
 							</Swiper>
 						</div>
 					</div>
-					<div className="d-flex justify-content-center">
+					{/* <div className="d-flex justify-content-center">
 						<Link className="btn btn-brand-2 text-nowrap wow fadeInUp" href="/cars-list-1">
 							<svg className="me-2" xmlns="http://www.w3.org/2000/svg" width={19} height={18} viewBox="0 0 19 18" fill="none">
 								<g clipPath="url(#clip0_117_4717)">
@@ -273,7 +273,7 @@ export default function CarsListing1() {
 							</svg>
 							Load More Cars
 						</Link>
-					</div>
+					</div> */}
 				</div>
 			</section>
 		</>

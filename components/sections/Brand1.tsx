@@ -9,7 +9,7 @@ export default function Brand1() {
 			<div className="background-100 pb-70">
 				<div className="container">
 					<div className="box-search-category">
-						<h3 className="heading-3 mb-0 neutral-1000 wow fadeInUp">Marcas Premium</h3>
+						<h3 className="heading-3 mb-0 neutral-1000 wow fadeInUp">Marcas</h3>
 						<div className="d-flex align-items-center justify-content-between">
 							<p className="text-lg-medium neutral-500 wow fadeInUp">Descubra la mejor selección de vehículos.</p>
 							<Link href="/cars-list-1" className="text-sm-bold neutral-1000 wow fadeInUp">
@@ -53,6 +53,31 @@ export default function Brand1() {
 								</li>
 								<li className="carouselTicker__item">
 									<Link href="/cars-list-2" className="item-brand">
+										<img className="light-mode" src="/assets/imgs/page/homepage2/renault.png" alt="AD-Coches" />
+										<img className="dark-mode" src="/assets/imgs/page/homepage2/honda-w.png" alt="AD-Coches" />
+									</Link>
+								</li>
+								<li className="carouselTicker__item">
+									<Link href="/cars-list-2" className="item-brand">
+										<img className="light-mode" src="/assets/imgs/page/homepage2/peugeot.png" alt="AD-Coches" />
+										<img className="dark-mode" src="/assets/imgs/page/homepage2/honda-w.png" alt="AD-Coches" />
+									</Link>
+								</li>
+								<li className="carouselTicker__item">
+									<Link href="/cars-list-2" className="item-brand">
+										<img className="light-mode" src="/assets/imgs/page/homepage2/VW.jpeg" alt="AD-Coches" />
+										<img className="dark-mode" src="/assets/imgs/page/homepage2/honda-w.png" alt="AD-Coches" />
+									</Link>
+								</li>
+								<li className="carouselTicker__item">
+									<Link href="/cars-list-2" className="item-brand">
+										<img className="light-mode" src="/assets/imgs/page/homepage2/audi.jpeg" alt="AD-Coches" />
+										<img className="dark-mode" src="/assets/imgs/page/homepage2/honda-w.png" alt="AD-Coches" />
+									</Link>
+								</li>
+
+								<li className="carouselTicker__item">
+									<Link href="/cars-list-2" className="item-brand">
 										<img className="light-mode" src="/assets/imgs/page/homepage2/chevrolet.png" alt="AD-Coches" />
 										<img className="dark-mode" src="/assets/imgs/page/homepage2/chevrolet-w.png" alt="AD-Coches" />
 									</Link>
@@ -75,7 +100,7 @@ export default function Brand1() {
 										<img className="dark-mode" src="/assets/imgs/page/homepage2/toyota-w.png" alt="AD-Coches" />
 									</Link>
 								</li>
-								<li className="carouselTicker__item">
+								{/* <li className="carouselTicker__item">
 									<Link href="/cars-list-2" className="item-brand">
 										<img className="light-mode" src="/assets/imgs/page/homepage2/lexus.png" alt="AD-Coches" />
 										<img className="dark-mode" src="/assets/imgs/page/homepage2/lexus-w.png" alt="AD-Coches" />
@@ -86,7 +111,7 @@ export default function Brand1() {
 										<img className="light-mode" src="/assets/imgs/page/homepage2/mer.png" alt="AD-Coches" />
 										<img className="dark-mode" src="/assets/imgs/page/homepage2/mer-w.png" alt="AD-Coches" />
 									</Link>
-								</li>
+								</li> */}
 							{/* 	<li className="carouselTicker__item">
 									<Link href="/cars-list-2" className="item-brand">
 										<img className="light-mode" src="/assets/imgs/page/homepage2/bugatti.png" alt="AD-Coches" />
