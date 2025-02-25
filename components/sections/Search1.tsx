@@ -24,7 +24,7 @@ export default function Search1() {
                   target="_blank"
                   href="https://wa.link/azje9c"
                 >
-                  Necesitas ayuada?
+                  Necesitas ayuda?
                 </Link>
               </div>
             </div>
