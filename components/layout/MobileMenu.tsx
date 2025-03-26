@@ -43,8 +43,8 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: any) {
 												<li><Link href="/cars-list-2">Cars List v2</Link></li>
 												<li><Link href="/cars-list-3">Cars List v3</Link></li>
 												<li><Link href="/cars-list-4">Cars List v4</Link></li>
-												<li><Link href="/cars-details-1">Car Details v1</Link></li>
-												<li><Link href="/cars-details-2">Car Details v2</Link></li>
+												<li><Link href="/clio-9367">Car Details v1</Link></li>
+												<li><Link href="/megane-5830">Car Details v2</Link></li>
 												<li><Link href="/cars-details-3">Car Details v3</Link></li>
 												<li><Link href="/cars-details-4">Car Details v4</Link></li>
 											</ul>

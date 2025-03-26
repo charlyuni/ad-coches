@@ -65,7 +65,7 @@ export default function CarsListing3() {
 									<SwiperSlide>
 										<div className="card-journey-small card-journey-small-listing-3 background-0 d-flex flex-md-row flex-column align-items-center mw-100 position-relative">
 											<div className="card-image w-100">
-												<Link href="/cars-details-1">
+												<Link href="/clio-9367">
 													<img src="/assets/imgs/cars-listing/cars-listing-3/car-1.png" alt="AD-Coches" />
 												</Link>
 											</div>
@@ -75,7 +75,7 @@ export default function CarsListing3() {
 														<span className="rating shadow-none border-0 bg-transparent"> 4.96 <span className="text-sm-medium neutral-500">(672 reviews)</span> </span>
 													</div>
 												</div>
-												<div className="card-title pb-1"><Link className="heading-6 neutral-1000" href="/cars-details-1">Audi A3 1.6 TDI S line</Link></div>
+												<div className="card-title pb-1"><Link className="heading-6 neutral-1000" href="/clio-9367">Audi A3 1.6 TDI S line</Link></div>
 												<div className="card-program">
 													<div className="card-facitlities border-0 pb-3">
 														<p className="card-miles text-md-medium">72.491km</p>
@@ -88,14 +88,14 @@ export default function CarsListing3() {
 															<p className="text-md-medium neutral-500 me-2">From</p>
 															<h6 className="heading-6 neutral-1000">$35.62</h6>
 														</div>
-														<div className="card-button"><Link className="btn btn-gray" href="/cars-details-1">Book Now</Link></div>
+														<div className="card-button"><Link className="btn btn-gray" href="/clio-9367">Book Now</Link></div>
 													</div>
 												</div>
 											</div>
 										</div>
 										<div className="card-journey-small card-journey-small-listing-3 background-0 d-flex flex-md-row flex-column align-items-center mw-100 position-relative">
 											<div className="card-image w-100">
-												<Link href="/cars-details-1">
+												<Link href="/clio-9367">
 													<img src="/assets/imgs/cars-listing/cars-listing-3/car-2.png" alt="AD-Coches" />
 												</Link>
 											</div>
@@ -105,7 +105,7 @@ export default function CarsListing3() {
 														<span className="rating shadow-none border-0 bg-transparent"> 4.96 <span className="text-sm-medium neutral-500">(672 reviews)</span> </span>
 													</div>
 												</div>
-												<div className="card-title pb-1"><Link className="heading-6 neutral-1000" href="/cars-details-1">BMW 320d xDrive M</Link></div>
+												<div className="card-title pb-1"><Link className="heading-6 neutral-1000" href="/clio-9367">BMW 320d xDrive M</Link></div>
 												<div className="card-program">
 													<div className="card-facitlities border-0 pb-3">
 														<p className="card-miles text-md-medium">72.491km</p>
@@ -118,14 +118,14 @@ export default function CarsListing3() {
 															<p className="text-md-medium neutral-500 me-2">From</p>
 															<h6 className="heading-6 neutral-1000">$35.62</h6>
 														</div>
-														<div className="card-button"><Link className="btn btn-gray" href="/cars-details-1">Book Now</Link></div>
+														<div className="card-button"><Link className="btn btn-gray" href="/clio-9367">Book Now</Link></div>
 													</div>
 												</div>
 											</div>
 										</div>
 										<div className="card-journey-small card-journey-small-listing-3 background-0 d-flex flex-md-row flex-column align-items-center mw-100 position-relative">
 											<div className="card-image w-100">
-												<Link href="/cars-details-1">
+												<Link href="/clio-9367">
 													<img src="/assets/imgs/cars-listing/cars-listing-3/car-3.png" alt="AD-Coches" />
 												</Link>
 											</div>
@@ -135,7 +135,7 @@ export default function CarsListing3() {
 														<span className="rating shadow-none border-0 bg-transparent"> 4.96 <span className="text-sm-medium neutral-500">(672 reviews)</span> </span>
 													</div>
 												</div>
-												<div className="card-title pb-1"><Link className="heading-6 neutral-1000" href="/cars-details-1">Mercedes-Benz C220d</Link></div>
+												<div className="card-title pb-1"><Link className="heading-6 neutral-1000" href="/clio-9367">Mercedes-Benz C220d</Link></div>
 												<div className="card-program">
 													<div className="card-facitlities border-0 pb-3">
 														<p className="card-miles text-md-medium">72.491km</p>
@@ -148,7 +148,7 @@ export default function CarsListing3() {
 															<p className="text-md-medium neutral-500 me-2">From</p>
 															<h6 className="heading-6 neutral-1000">$35.62</h6>
 														</div>
-														<div className="card-button"><Link className="btn btn-gray" href="/cars-details-1">Book Now</Link></div>
+														<div className="card-button"><Link className="btn btn-gray" href="/clio-9367">Book Now</Link></div>
 													</div>
 												</div>
 											</div>
@@ -157,7 +157,7 @@ export default function CarsListing3() {
 									<SwiperSlide>
 										<div className="card-journey-small card-journey-small-listing-3 background-0 d-flex flex-md-row flex-column align-items-center mw-100 position-relative">
 											<div className="card-image w-100">
-												<Link href="/cars-details-1">
+												<Link href="/clio-9367">
 													<img src="/assets/imgs/cars-listing/cars-listing-3/car-4.png" alt="AD-Coches" />
 												</Link>
 											</div>
@@ -167,7 +167,7 @@ export default function CarsListing3() {
 														<span className="rating shadow-none border-0 bg-transparent"> 4.96 <span className="text-sm-medium neutral-500">(672 reviews)</span> </span>
 													</div>
 												</div>
-												<div className="card-title pb-1"><Link className="heading-6 neutral-1000" href="/cars-details-1">Volkswagen Golf GTD</Link></div>
+												<div className="card-title pb-1"><Link className="heading-6 neutral-1000" href="/clio-9367">Volkswagen Golf GTD</Link></div>
 												<div className="card-program">
 													<div className="card-facitlities border-0 pb-3">
 														<p className="card-miles text-md-medium">72.491km</p>
@@ -180,14 +180,14 @@ export default function CarsListing3() {
 															<p className="text-md-medium neutral-500 me-2">From</p>
 															<h6 className="heading-6 neutral-1000">$35.62</h6>
 														</div>
-														<div className="card-button"><Link className="btn btn-gray" href="/cars-details-1">Book Now</Link></div>
+														<div className="card-button"><Link className="btn btn-gray" href="/clio-9367">Book Now</Link></div>
 													</div>
 												</div>
 											</div>
 										</div>
 										<div className="card-journey-small card-journey-small-listing-3 background-0 d-flex flex-md-row flex-column align-items-center mw-100 position-relative">
 											<div className="card-image w-100">
-												<Link href="/cars-details-1">
+												<Link href="/clio-9367">
 													<img src="/assets/imgs/cars-listing/cars-listing-3/car-5.png" alt="AD-Coches" />
 												</Link>
 											</div>
@@ -197,7 +197,7 @@ export default function CarsListing3() {
 														<span className="rating shadow-none border-0 bg-transparent"> 4.96 <span className="text-sm-medium neutral-500">(672 reviews)</span> </span>
 													</div>
 												</div>
-												<div className="card-title pb-1"><Link className="heading-6 neutral-1000" href="/cars-details-1">Volvo S60 D4 R-Design</Link></div>
+												<div className="card-title pb-1"><Link className="heading-6 neutral-1000" href="/clio-9367">Volvo S60 D4 R-Design</Link></div>
 												<div className="card-program">
 													<div className="card-facitlities border-0 pb-3">
 														<p className="card-miles text-md-medium">72.491km</p>
@@ -210,14 +210,14 @@ export default function CarsListing3() {
 															<p className="text-md-medium neutral-500 me-2">From</p>
 															<h6 className="heading-6 neutral-1000">$35.62</h6>
 														</div>
-														<div className="card-button"><Link className="btn btn-gray" href="/cars-details-1">Book Now</Link></div>
+														<div className="card-button"><Link className="btn btn-gray" href="/clio-9367">Book Now</Link></div>
 													</div>
 												</div>
 											</div>
 										</div>
 										<div className="card-journey-small card-journey-small-listing-3 background-0 d-flex flex-md-row flex-column align-items-center mw-100 position-relative">
 											<div className="card-image w-100">
-												<Link href="/cars-details-1">
+												<Link href="/clio-9367">
 													<img src="/assets/imgs/cars-listing/cars-listing-3/car-6.png" alt="AD-Coches" />
 												</Link>
 											</div>
@@ -227,7 +227,7 @@ export default function CarsListing3() {
 														<span className="rating shadow-none border-0 bg-transparent"> 4.96 <span className="text-sm-medium neutral-500">(672 reviews)</span> </span>
 													</div>
 												</div>
-												<div className="card-title pb-1"><Link className="heading-6 neutral-1000" href="/cars-details-1">Jaguar XE 2.0d R-Sport</Link></div>
+												<div className="card-title pb-1"><Link className="heading-6 neutral-1000" href="/clio-9367">Jaguar XE 2.0d R-Sport</Link></div>
 												<div className="card-program">
 													<div className="card-facitlities border-0 pb-3">
 														<p className="card-miles text-md-medium">72.491km</p>
@@ -240,7 +240,7 @@ export default function CarsListing3() {
 															<p className="text-md-medium neutral-500 me-2">From</p>
 															<h6 className="heading-6 neutral-1000">$35.62</h6>
 														</div>
-														<div className="card-button"><Link className="btn btn-gray" href="/cars-details-1">Book Now</Link></div>
+														<div className="card-button"><Link className="btn btn-gray" href="/clio-9367">Book Now</Link></div>
 													</div>
 												</div>
 											</div>
@@ -249,7 +249,7 @@ export default function CarsListing3() {
 									<SwiperSlide>
 										<div className="card-journey-small card-journey-small-listing-3 background-0 d-flex flex-md-row flex-column align-items-center mw-100 position-relative">
 											<div className="card-image w-100">
-												<Link href="/cars-details-1">
+												<Link href="/clio-9367">
 													<img src="/assets/imgs/cars-listing/cars-listing-3/car-1.png" alt="AD-Coches" />
 												</Link>
 											</div>
@@ -259,7 +259,7 @@ export default function CarsListing3() {
 														<span className="rating shadow-none border-0 bg-transparent"> 4.96 <span className="text-sm-medium neutral-500">(672 reviews)</span> </span>
 													</div>
 												</div>
-												<div className="card-title pb-1"><Link className="heading-6 neutral-1000" href="/cars-details-1">Audi A3 1.6 TDI S line</Link></div>
+												<div className="card-title pb-1"><Link className="heading-6 neutral-1000" href="/clio-9367">Audi A3 1.6 TDI S line</Link></div>
 												<div className="card-program">
 													<div className="card-facitlities border-0 pb-3">
 														<p className="card-miles text-md-medium">72.491km</p>
@@ -272,14 +272,14 @@ export default function CarsListing3() {
 															<p className="text-md-medium neutral-500 me-2">From</p>
 															<h6 className="heading-6 neutral-1000">$35.62</h6>
 														</div>
-														<div className="card-button"><Link className="btn btn-gray" href="/cars-details-1">Book Now</Link></div>
+														<div className="card-button"><Link className="btn btn-gray" href="/clio-9367">Book Now</Link></div>
 													</div>
 												</div>
 											</div>
 										</div>
 										<div className="card-journey-small card-journey-small-listing-3 background-0 d-flex flex-md-row flex-column align-items-center mw-100 position-relative">
 											<div className="card-image w-100">
-												<Link href="/cars-details-1">
+												<Link href="/clio-9367">
 													<img src="/assets/imgs/cars-listing/cars-listing-3/car-2.png" alt="AD-Coches" />
 												</Link>
 											</div>
@@ -289,7 +289,7 @@ export default function CarsListing3() {
 														<span className="rating shadow-none border-0 bg-transparent"> 4.96 <span className="text-sm-medium neutral-500">(672 reviews)</span> </span>
 													</div>
 												</div>
-												<div className="card-title pb-1"><Link className="heading-6 neutral-1000" href="/cars-details-1">BMW 320d xDrive M</Link></div>
+												<div className="card-title pb-1"><Link className="heading-6 neutral-1000" href="/clio-9367">BMW 320d xDrive M</Link></div>
 												<div className="card-program">
 													<div className="card-facitlities border-0 pb-3">
 														<p className="card-miles text-md-medium">72.491km</p>
@@ -302,14 +302,14 @@ export default function CarsListing3() {
 															<p className="text-md-medium neutral-500 me-2">From</p>
 															<h6 className="heading-6 neutral-1000">$35.62</h6>
 														</div>
-														<div className="card-button"><Link className="btn btn-gray" href="/cars-details-1">Book Now</Link></div>
+														<div className="card-button"><Link className="btn btn-gray" href="/clio-9367">Book Now</Link></div>
 													</div>
 												</div>
 											</div>
 										</div>
 										<div className="card-journey-small card-journey-small-listing-3 background-0 d-flex flex-md-row flex-column align-items-center mw-100 position-relative">
 											<div className="card-image w-100">
-												<Link href="/cars-details-1">
+												<Link href="/clio-9367">
 													<img src="/assets/imgs/cars-listing/cars-listing-3/car-3.png" alt="AD-Coches" />
 												</Link>
 											</div>
@@ -319,7 +319,7 @@ export default function CarsListing3() {
 														<span className="rating shadow-none border-0 bg-transparent"> 4.96 <span className="text-sm-medium neutral-500">(672 reviews)</span> </span>
 													</div>
 												</div>
-												<div className="card-title pb-1"><Link className="heading-6 neutral-1000" href="/cars-details-1">Mercedes-Benz C220d</Link></div>
+												<div className="card-title pb-1"><Link className="heading-6 neutral-1000" href="/clio-9367">Mercedes-Benz C220d</Link></div>
 												<div className="card-program">
 													<div className="card-facitlities border-0 pb-3">
 														<p className="card-miles text-md-medium">72.491km</p>
@@ -332,7 +332,7 @@ export default function CarsListing3() {
 															<p className="text-md-medium neutral-500 me-2">From</p>
 															<h6 className="heading-6 neutral-1000">$35.62</h6>
 														</div>
-														<div className="card-button"><Link className="btn btn-gray" href="/cars-details-1">Book Now</Link></div>
+														<div className="card-button"><Link className="btn btn-gray" href="/clio-9367">Book Now</Link></div>
 													</div>
 												</div>
 											</div>
@@ -341,7 +341,7 @@ export default function CarsListing3() {
 									<SwiperSlide>
 										<div className="card-journey-small card-journey-small-listing-3 background-0 d-flex flex-md-row flex-column align-items-center mw-100 position-relative">
 											<div className="card-image w-100">
-												<Link href="/cars-details-1">
+												<Link href="/clio-9367">
 													<img src="/assets/imgs/cars-listing/cars-listing-3/car-4.png" alt="AD-Coches" />
 												</Link>
 											</div>
@@ -351,7 +351,7 @@ export default function CarsListing3() {
 														<span className="rating shadow-none border-0 bg-transparent"> 4.96 <span className="text-sm-medium neutral-500">(672 reviews)</span> </span>
 													</div>
 												</div>
-												<div className="card-title pb-1"><Link className="heading-6 neutral-1000" href="/cars-details-1">Volkswagen Golf GTD</Link></div>
+												<div className="card-title pb-1"><Link className="heading-6 neutral-1000" href="/clio-9367">Volkswagen Golf GTD</Link></div>
 												<div className="card-program">
 													<div className="card-facitlities border-0 pb-3">
 														<p className="card-miles text-md-medium">72.491km</p>
@@ -364,14 +364,14 @@ export default function CarsListing3() {
 															<p className="text-md-medium neutral-500 me-2">From</p>
 															<h6 className="heading-6 neutral-1000">$35.62</h6>
 														</div>
-														<div className="card-button"><Link className="btn btn-gray" href="/cars-details-1">Book Now</Link></div>
+														<div className="card-button"><Link className="btn btn-gray" href="/clio-9367">Book Now</Link></div>
 													</div>
 												</div>
 											</div>
 										</div>
 										<div className="card-journey-small card-journey-small-listing-3 background-0 d-flex flex-md-row flex-column align-items-center mw-100 position-relative">
 											<div className="card-image w-100">
-												<Link href="/cars-details-1">
+												<Link href="/clio-9367">
 													<img src="/assets/imgs/cars-listing/cars-listing-3/car-5.png" alt="AD-Coches" />
 												</Link>
 											</div>
@@ -381,7 +381,7 @@ export default function CarsListing3() {
 														<span className="rating shadow-none border-0 bg-transparent"> 4.96 <span className="text-sm-medium neutral-500">(672 reviews)</span> </span>
 													</div>
 												</div>
-												<div className="card-title pb-1"><Link className="heading-6 neutral-1000" href="/cars-details-1">Volvo S60 D4 R-Design</Link></div>
+												<div className="card-title pb-1"><Link className="heading-6 neutral-1000" href="/clio-9367">Volvo S60 D4 R-Design</Link></div>
 												<div className="card-program">
 													<div className="card-facitlities border-0 pb-3">
 														<p className="card-miles text-md-medium">72.491km</p>
@@ -394,14 +394,14 @@ export default function CarsListing3() {
 															<p className="text-md-medium neutral-500 me-2">From</p>
 															<h6 className="heading-6 neutral-1000">$35.62</h6>
 														</div>
-														<div className="card-button"><Link className="btn btn-gray" href="/cars-details-1">Book Now</Link></div>
+														<div className="card-button"><Link className="btn btn-gray" href="/clio-9367">Book Now</Link></div>
 													</div>
 												</div>
 											</div>
 										</div>
 										<div className="card-journey-small card-journey-small-listing-3 background-0 d-flex flex-md-row flex-column align-items-center mw-100 position-relative">
 											<div className="card-image w-100">
-												<Link href="/cars-details-1">
+												<Link href="/clio-9367">
 													<img src="/assets/imgs/cars-listing/cars-listing-3/car-6.png" alt="AD-Coches" />
 												</Link>
 											</div>
@@ -411,7 +411,7 @@ export default function CarsListing3() {
 														<span className="rating shadow-none border-0 bg-transparent"> 4.96 <span className="text-sm-medium neutral-500">(672 reviews)</span> </span>
 													</div>
 												</div>
-												<div className="card-title pb-1"><Link className="heading-6 neutral-1000" href="/cars-details-1">Jaguar XE 2.0d R-Sport</Link></div>
+												<div className="card-title pb-1"><Link className="heading-6 neutral-1000" href="/clio-9367">Jaguar XE 2.0d R-Sport</Link></div>
 												<div className="card-program">
 													<div className="card-facitlities border-0 pb-3">
 														<p className="card-miles text-md-medium">72.491km</p>
@@ -424,7 +424,7 @@ export default function CarsListing3() {
 															<p className="text-md-medium neutral-500 me-2">From</p>
 															<h6 className="heading-6 neutral-1000">$35.62</h6>
 														</div>
-														<div className="card-button"><Link className="btn btn-gray" href="/cars-details-1">Book Now</Link></div>
+														<div className="card-button"><Link className="btn btn-gray" href="/clio-9367">Book Now</Link></div>
 													</div>
 												</div>
 											</div>

@@ -97,7 +97,7 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu, handle
 														{/* <div className="col-lg-6">
 															<h6 className="text-lg-bold neutral-1000">Car Details</h6>
 															<ul className="sub-menu">
-																<li><Link href="/cars-details-1">Car Details v1</Link></li>
+																<li><Link href="/clio-9367">Car Details v1</Link></li>
 																
 															</ul>
 														</div> */}

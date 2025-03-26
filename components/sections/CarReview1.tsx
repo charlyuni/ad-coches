@@ -45,7 +45,7 @@ export default function CarReview1() {
 										<div className="item-image"><a className="btn-play-sm popup-youtube" onClick={() => setOpen(true)}> </a><img className="mr-10" src="/assets/imgs/car-review/car-review-1/img-video-2.png" alt="AD-Coches" />
 										</div>
 										<div className="item-info">
-											<Link className="heading-6" href="/cars-details-1">Best Midsize 3-row SUVs 2024</Link>
+											<Link className="heading-6" href="/clio-9367">Best Midsize 3-row SUVs 2024</Link>
 											<p className="text-md-medium neutral-500">18 August 2024</p>
 										</div>
 									</div>
@@ -53,7 +53,7 @@ export default function CarReview1() {
 										<div className="item-image"><a className="btn-play-sm popup-youtube" onClick={() => setOpen(true)}> </a><img className="mr-10" src="/assets/imgs/car-review/car-review-1/img-video-3.png" alt="AD-Coches" />
 										</div>
 										<div className="item-info">
-											<Link className="heading-6" href="/cars-details-1">5 Best Luxury sport coupes
+											<Link className="heading-6" href="/clio-9367">5 Best Luxury sport coupes
 												2024</Link>
 											<p className="text-md-medium neutral-500">18 August 2024</p>
 										</div>
@@ -62,7 +62,7 @@ export default function CarReview1() {
 										<div className="item-image"><a className="btn-play-sm popup-youtube" onClick={() => setOpen(true)}> </a><img className="mr-10" src="/assets/imgs/car-review/car-review-1/img-video-4.png" alt="AD-Coches" />
 										</div>
 										<div className="item-info">
-											<Link className="heading-6" href="/cars-details-1">Best Small hatchbacks 2024 and
+											<Link className="heading-6" href="/clio-9367">Best Small hatchbacks 2024 and
 												2025</Link>
 											<p className="text-md-medium neutral-500">18 August 2024</p>
 										</div>

@@ -190,7 +190,7 @@ export default function DealerDetails() {
 																<span className="rating text-xs-medium rounded-pill">4.96 <span className="text-xs-medium neutral-500">(672 reviews)</span></span>
 															</div>
 														</div>
-														<div className="card-title"><Link className="text-lg-bold neutral-1000 text-nowrap" href="/cars-details-1">Hyundai Sonata SEL Plus</Link></div>
+														<div className="card-title"><Link className="text-lg-bold neutral-1000 text-nowrap" href="/clio-9367">Hyundai Sonata SEL Plus</Link></div>
 														<div className="card-program">
 															<div className="card-location">
 																<p className="text-location text-sm-medium neutral-500">New South Wales, Australia</p>
@@ -206,7 +206,7 @@ export default function DealerDetails() {
 																	<h6 className="text-lg-bold neutral-1000">$72.15</h6>
 																	<p className="text-md-medium neutral-500">/ day</p>
 																</div>
-																<div className="card-button"><Link className="btn btn-gray" href="/cars-details-1">Book Now</Link></div>
+																<div className="card-button"><Link className="btn btn-gray" href="/clio-9367">Book Now</Link></div>
 															</div>
 														</div>
 													</div>
@@ -224,7 +224,7 @@ export default function DealerDetails() {
 																<span className="rating text-xs-medium rounded-pill">4.96 <span className="text-xs-medium neutral-500">(672 reviews)</span></span>
 															</div>
 														</div>
-														<div className="card-title"><Link className="text-lg-bold neutral-1000 text-nowrap" href="/cars-details-1">Buick Enclave Avenir</Link></div>
+														<div className="card-title"><Link className="text-lg-bold neutral-1000 text-nowrap" href="/clio-9367">Buick Enclave Avenir</Link></div>
 														<div className="card-program">
 															<div className="card-location">
 																<p className="text-location text-sm-medium neutral-500">New South Wales, Australia</p>
@@ -240,7 +240,7 @@ export default function DealerDetails() {
 																	<h6 className="text-lg-bold neutral-1000">$69.56</h6>
 																	<p className="text-md-medium neutral-500">/ day</p>
 																</div>
-																<div className="card-button"><Link className="btn btn-gray" href="/cars-details-1">Book Now</Link></div>
+																<div className="card-button"><Link className="btn btn-gray" href="/clio-9367">Book Now</Link></div>
 															</div>
 														</div>
 													</div>
@@ -258,7 +258,7 @@ export default function DealerDetails() {
 																<span className="rating text-xs-medium rounded-pill">4.96 <span className="text-xs-medium neutral-500">(672 reviews)</span></span>
 															</div>
 														</div>
-														<div className="card-title"><Link className="text-lg-bold neutral-1000 text-nowrap" href="/cars-details-1">Chevrolet Silverado</Link></div>
+														<div className="card-title"><Link className="text-lg-bold neutral-1000 text-nowrap" href="/clio-9367">Chevrolet Silverado</Link></div>
 														<div className="card-program">
 															<div className="card-location">
 																<p className="text-location text-sm-medium neutral-500">New South Wales, Australia</p>
@@ -274,7 +274,7 @@ export default function DealerDetails() {
 																	<h6 className="text-lg-bold neutral-1000">$253.0</h6>
 																	<p className="text-md-medium neutral-500">/ day</p>
 																</div>
-																<div className="card-button"><Link className="btn btn-gray" href="/cars-details-1">Book Now</Link></div>
+																<div className="card-button"><Link className="btn btn-gray" href="/clio-9367">Book Now</Link></div>
 															</div>
 														</div>
 													</div>
@@ -292,7 +292,7 @@ export default function DealerDetails() {
 																<span className="rating text-xs-medium rounded-pill">4.96 <span className="text-xs-medium neutral-500">(672 reviews)</span></span>
 															</div>
 														</div>
-														<div className="card-title"><Link className="text-lg-bold neutral-1000 text-nowrap" href="/cars-details-1">Subaru Outback Limited XT</Link></div>
+														<div className="card-title"><Link className="text-lg-bold neutral-1000 text-nowrap" href="/clio-9367">Subaru Outback Limited XT</Link></div>
 														<div className="card-program">
 															<div className="card-location">
 																<p className="text-location text-sm-medium neutral-500">New South Wales, Australia</p>
@@ -308,7 +308,7 @@ export default function DealerDetails() {
 																	<h6 className="text-lg-bold neutral-1000">$75.86</h6>
 																	<p className="text-md-medium neutral-500">/ day</p>
 																</div>
-																<div className="card-button"><Link className="btn btn-gray" href="/cars-details-1">Book Now</Link></div>
+																<div className="card-button"><Link className="btn btn-gray" href="/clio-9367">Book Now</Link></div>
 															</div>
 														</div>
 													</div>
