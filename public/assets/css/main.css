@@ -11606,6 +11606,7 @@ a.icon-socials:hover svg path {
 .slider-nav-thumbnails-activities-detail .banner-slide {
 	padding: 12px;
 	min-height: 85px;
+	cursor: pointer;
 }
 
 .slider-nav-thumbnails-activities-detail .banner-slide img {
