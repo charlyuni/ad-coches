@@ -214,7 +214,7 @@ export default function CarsListing1() {
                               </h6>
                             </div>
                             <div className="card-button">
-                              <Link className="btn btn-gray" href="/clio-9367">
+                              <Link className="btn btn-gray" href="/megane-5830">
                                 Mas detalles
                               </Link>
                             </div>
