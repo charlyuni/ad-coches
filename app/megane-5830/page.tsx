@@ -1344,8 +1344,7 @@ export default function CarsDetails2() {
                           <p>
                             Este Renault Mégane combina comodidad, eficiencia y
                             estilo, ideal para moverte por la ciudad o carretera
-                            con total confianza. Mantenimiento al día y sin
-                            accidentes.
+                            con total confianza. Mantenimiento al día.
                           </p>
                           <p className="details">
                             🔍{" "}
